@@ -1,11 +1,3 @@
-/* .ofertas{
-    padding-top: 5px;
-    color: red;
-    text-align: center;
-    background-color: black;
-    height: 50px;
-    
-} */
 
 .meuNavbar{
     width: 100%; 
@@ -16,21 +8,6 @@
     align-items: center; 
     justify-content: space-around;
     text-align: center;
-}
-
-/* estilizando os links que estão no menu */
-/* tirando o sublinhado dos links  */
-/* .menu a{
-    text-decoration: none;
-    color: white;
-    padding-right: 17px;
-    font-size: 20px;
-} */
-
-
-/* colocando cor quando passamos o mouse em cima  */
-.menu a:hover{
-    color: white;
 }
 
 .nomedosite{

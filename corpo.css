@@ -1,0 +1,25 @@
+.corpo{
+    height:530px;
+    padding-left: 30px;
+    display: flex; 
+}
+
+.meunome{
+    color: red;
+
+}
+
+.caixa{
+    padding-top: 15%;
+    font-size: larger;
+    
+}
+
+.imagem{
+    padding-top: 100px;
+    padding-right: 50px;
+}
+
+.button{
+    width: 30%;
+}

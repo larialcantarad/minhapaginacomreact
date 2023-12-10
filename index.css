@@ -1,0 +1,6 @@
+/* aqui criamos um padrao de formatação para todas as paginas */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

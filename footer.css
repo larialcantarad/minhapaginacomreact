@@ -1,0 +1,15 @@
+
+.rodape{
+    color: white;
+    height: 50px;
+    justify-content: center;
+    text-align: center;
+    background-color: blue;
+
+}
+
+
+
+.footer{
+    display: flex;
+}

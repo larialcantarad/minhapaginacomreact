@@ -16,7 +16,7 @@ function Corpo(){
             </div>
             <div className="imagem">
                 <img src = "../../../public/enrolados.jpg" alt = "enrolados"></img>
-                {/* <image src="./public/enrolados.jpg" alt= "foto qualquer"></image> */}
+                
             </div>
         
         </div>
